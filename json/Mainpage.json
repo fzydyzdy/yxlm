@@ -1,0 +1,133 @@
+[
+    {
+        "src": "../img/img3/1.jpg",
+        "name": "精品推荐",
+        "hd": "超值好物随时买",
+        "gd": "更多",
+        "food": [
+            {
+                "src":"../img/img3/6.jpg",
+                "name": "灌篮高手 德莱厄斯手办",
+                "money": "199"
+            },
+            {
+                "src":"../img/img3/7.jpg",
+                "name": "灌篮高手衣服",
+                "money": "499"
+            },
+            {
+                "src":"../img/img3/8.jpg",
+                "name": "灌篮高手 德莱厄斯鼠标垫",
+                "money": "68"
+            },{
+                "src":"../img/img3/9.jpg",
+                "name": "灌篮高手德莱厄斯徽章套装",
+                "money": "108"
+            }
+        ]
+    },{
+        "src": "../img/img3/2.jpg",
+        "name": "手办专区",
+        "hd": "精品热卖手办等你抢",
+        "gd": "更多",
+        "food": [
+            {
+                "src":"../img/img3/10.jpg",
+                "name": "卡牌大师逆命 手办",
+                "money": "150"
+            },
+            {
+                "src":"../img/img3/11.jpg",
+                "name": "K/DA阿狸 手办",
+                "money": "150"
+            },
+            {
+                "src":"../img/img3/12.jpg",
+                "name": "哞利斯塔 手办",
+                "money": "150"
+            },{
+                "src":"../img/img3/13.jpg",
+                "name": "盲僧李青 中型雕塑",
+                "money": "430"
+            }
+        ]
+    },{
+        "src": "../img/img3/3.jpg",
+        "name": "毛绒专区专区",
+        "hd": "毛绒玩具 匠心设计",
+        "gd": "更多",
+        "food": [
+            {
+                "src":"../img/img3/14.jpg",
+                "name": "战斗校长 悠米抱枕",
+                "money": "180"
+            },
+            {
+                "src":"../img/img3/15.jpg",
+                "name": "冰霜烈焰 提伯斯熊",
+                "money": "180"
+            },
+            {
+                "src":"../img/img3/16.jpg",
+                "name": "开心魄罗抱枕",
+                "money": "180"
+            },{
+                "src":"../img/img3/17.jpg",
+                "name": "连体衣迷你魄罗毛绒套装",
+                "money": "150"
+            }
+        ]
+    },{
+        "src": "../img/img3/4.jpg",
+        "name": "LPL专区",
+        "hd": "选手同款周边",
+        "gd": "更多",
+        "food": [
+            {
+                "src":"../img/img3/18.jpg",
+                "name": "2018 RNG 队服短袖上衣",
+                "money": "199"
+            },
+            {
+                "src":"../img/img3/19.jpg",
+                "name": "2018 IG 队服短袖上衣",
+                "money": "199"
+            },
+            {
+                "src":"../img/img3/20.jpg",
+                "name": "2018 EDG 队服短袖上衣",
+                "money": "199"
+            },{
+                "src":"../img/img3/21.jpg",
+                "name": "LPL U盘 32G USB 3.0",
+                "money": "138"
+            }
+        ]
+    },{
+        "src": "../img/img3/5.jpg",
+        "name": "T恤专区",
+        "hd": "清爽T恤 清凉一夏",
+        "gd": "更多",
+        "food": [
+            {
+                "src":"../img/img3/22.jpg",
+                "name": "压缩 插画T恤",
+                "money": "150"
+            },
+            {
+                "src":"../img/img3/23.jpg",
+                "name": "布隆 插画T恤",
+                "money": "150"
+            },
+            {
+                "src":"../img/img3/24.jpg",
+                "name": "布里茨 插画T恤",
+                "money": "150"
+            },{
+                "src":"../img/img3/25.jpg",
+                "name": "洛与霞 插画T恤",
+                "money": "150"
+            }
+        ]
+    }
+]
